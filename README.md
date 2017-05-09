@@ -12,7 +12,7 @@ Repositório dos códigos demonstrados durante as meetups do Coders in Rio. Tant
 
 Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
-- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/AspnetCore-CodersInRio) | [Slides](https://www.slideshare.net/rafaelcruz7334/aspnet-core-75826775)
+- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/1-Meetup/NovidadesCS7) | [Slides](https://www.slideshare.net/rafaelcruz7334/aspnet-core-75826775)
 
 - [Novidades C# 7 (30 min): Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/1-Meetup/aspnetcore) | [Slides](https://www.slideshare.net/rafaelcruz7334/novidades-sobre-o-c-70-e-sua-evoluo)
 
