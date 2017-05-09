@@ -31,5 +31,5 @@ Assim que todos, sem exceção, estão convidados a fazer parte do grupo. E tamb
 
 Objetivo: movimentar a Comunidade Técnica aqui no Rio de Janeiro e tornarmos referência para os demais grupos de meetup na área de Desenvolvimento aqui no Rio de Janeiro.
 
-**Gostou?! E quer ser Palestrante?!** entre [AQUI](https://glaucialemos.typeform.com/to/bpVIni) e preencha o formulário!! :D
+**Gostou?! E quer ser Palestrante?!** entre [AQUI](https://codersinrio.typeform.com/to/bhf9nZi) e preencha o formulário!! :D
 
