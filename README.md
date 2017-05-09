@@ -12,9 +12,9 @@ Repositório dos códigos demonstrados durante as meetups do Coders in Rio. Tant
 
 Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
-- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/AspnetCore-CodersInRio) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-novidades-c-7)
+- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/AspnetCore-CodersInRio) | [Slides](https://www.slideshare.net/rafaelcruz7334/aspnet-core-75826775)
 
-- [Novidades C# 7 (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/NovidadeCS7) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-novidades-do-c-70-o-futuro-do-net-e-do-c)
+- [Novidades C# 7 (30 min): Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/1-Meetup/aspnetcore) | [Slides](https://www.slideshare.net/rafaelcruz7334/novidades-sobre-o-c-70-e-sua-evoluo)
 
 - [Introdução à TypeScript & Features Ts 2.x - Palestrante: Glaucia Lemos](https://github.com/glaucia86/palestra-typescript) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-introduo-typescript-features-ts-2x)
 
