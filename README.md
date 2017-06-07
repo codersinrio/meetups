@@ -20,7 +20,10 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 ### 2º Meetup: 
 
-(Em Breve)
+- [Introdução a nano serviços com Microsoft Azure Functions - Palestrante: Lucas Marques](https://github.com/codersinrio/meetups/tree/master/2-Meetup/Azure-Functions)
+
+- [ BDD com SpecFlow + Selenium - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/2-Meetup/BDD-SpecFlow-Selenium) | [Slides](https://pt.slideshare.net/rafaelcruz7334/apresentao-de-bdd-com-specflow-e-selenium)
+
 
 ## Entrem em contato conosco!!
 
