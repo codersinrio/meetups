@@ -12,17 +12,15 @@ Repositório dos códigos demonstrados durante as meetups do Coders in Rio. Tant
 
 Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
-- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/AspnetCore-CodersInRio) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-novidades-c-7)
+- [Asp.NET CORE (30 min): Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/1-Meetup/aspnetcore) | [Slides](https://www.slideshare.net/rafaelcruz7334/aspnet-core-75826775)
 
-- [Novidades C# 7 (30 min): Palestrante: Rafael Cruz](https://github.com/rafaelcruz-net/NovidadeCS7) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-novidades-do-c-70-o-futuro-do-net-e-do-c)
+- [Novidades C# 7 (30 min): Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/1-Meetup/NovidadesCS7) | [Slides](https://www.slideshare.net/rafaelcruz7334/novidades-sobre-o-c-70-e-sua-evoluo)
 
 - [Introdução à TypeScript & Features Ts 2.x - Palestrante: Glaucia Lemos](https://github.com/glaucia86/palestra-typescript) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-introduo-typescript-features-ts-2x)
 
 ### 2º Meetup: 
 
 (Em Breve)
-
-
 
 ## Entrem em contato conosco!!
 
@@ -33,5 +31,5 @@ Assim que todos, sem exceção, estão convidados a fazer parte do grupo. E tamb
 
 Objetivo: movimentar a Comunidade Técnica aqui no Rio de Janeiro e tornarmos referência para os demais grupos de meetup na área de Desenvolvimento aqui no Rio de Janeiro.
 
-**Gostou?! E quer ser Palestrante?!** entre [AQUI](https://glaucialemos.typeform.com/to/bpVIni) e preencha o formulário!! :D
+**Gostou?! E quer ser Palestrante?!** entre [AQUI](https://codersinrio.typeform.com/to/bhf9nZi) e preencha o formulário!! :D
 
