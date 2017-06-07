@@ -8,7 +8,7 @@ Repositório dos códigos demonstrados durante as meetups do Coders in Rio. Tant
 
 ## Códigos demos & Slides:
 
-### 1º Meetup: 08/02/2017
+### 1º Meetup: 08/05/2017
 
 Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
@@ -18,7 +18,7 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 - [Introdução à TypeScript & Features Ts 2.x - Palestrante: Glaucia Lemos](https://github.com/glaucia86/palestra-typescript) | [Slides](https://pt.slideshare.net/GlauciaLemos/palestra-introduo-typescript-features-ts-2x)
 
-### 2º Meetup: 
+### 2º Meetup: (05/06/2017) 
 
 - [Introdução a nano serviços com Microsoft Azure Functions - Palestrante: Lucas Marques](https://github.com/codersinrio/meetups/tree/master/2-Meetup/Azure-Functions)
 
