@@ -27,8 +27,7 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 ### 4º Meetup: (28/08/2017) 
 
-- [Workshop AngularJs 1.x - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/4-Meetup/Angularjs) | [Slides]
-(https://www.slideshare.net/rafaelcruz7334/angularjs-1x-meetup-coders-in-rio)
+- [Workshop AngularJs 1.x - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/4-Meetup/Angularjs) | [Slides](https://www.slideshare.net/rafaelcruz7334/angularjs-1x-meetup-coders-in-rio)
 
 
 ## Entrem em contato conosco!!
