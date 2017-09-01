@@ -25,6 +25,11 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 - [ BDD com SpecFlow + Selenium - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/2-Meetup/BDD-SpecFlow-Selenium) | [Slides](https://pt.slideshare.net/rafaelcruz7334/apresentao-de-bdd-com-specflow-e-selenium)
 
 
+### 4º Meetup: (05/06/2017) 
+
+- [Workshop AngularJs 1.x - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/4-Meetup/Angularjs)
+
+
 ## Entrem em contato conosco!!
 
 Caso queiram fazer um contato conosco ou queira palestrar pedimos que entre em contato conosco através da nossa página do Meetup: [Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio)

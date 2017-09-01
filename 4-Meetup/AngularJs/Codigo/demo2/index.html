@@ -1,0 +1,26 @@
+<!doctype html>
+<html data-ng-app="codersApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
+  </head>
+  <body  ng-controller="helloUserController">
+    <div>
+      <label>Nome:</label>
+      <input type="text" ng-model="nome" placeholder="Entre com o seu nome">
+      <hr>
+      <h1>Hello {{nome}}!</h1>
+    </div>
+  </body>
+  <script>
+    angular.module('codersApp',[])
+           .controller('helloUserController', helloUserController);
+
+    function helloUserController($scope){
+      $scope.nome = '';
+    }           
+
+
+
+  </script>
+
+</html>

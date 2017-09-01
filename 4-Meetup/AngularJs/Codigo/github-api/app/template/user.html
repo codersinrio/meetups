@@ -1,0 +1,30 @@
+<div class="container">
+    <h1 class="text-center">
+        <span />Busca de Usuário</span>
+    </h1>
+
+    <div class="panel  panel-default">
+        <div class="panel-heading">
+            <form class="form-inline">
+                <span>
+                Busque um usuário:    
+                <input ng-model='vm.userName' class="form-control" >
+                <button class="btn-default btn" data-ng-click="buscarUsuario();">Buscar</button>
+                </span>
+            </form>
+        </div>
+        <div class="panel-body">
+            <div class="list-group">
+                <div ng-repeat="user in vm.results" class="list-group-item ">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>
+                               <a ui-sref="repository({user:user.login})">{{user.login}}</a>
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

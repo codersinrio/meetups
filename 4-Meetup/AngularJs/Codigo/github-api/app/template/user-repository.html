@@ -1,0 +1,54 @@
+<div class="container">
+    <h1 class="text-center">
+        <span />{{vm.name}}</span>
+        <br>
+        <a href="{{vm.url}}" class="btn btn-primary">
+            Ver Github de {{vm.userName}}                        
+        </a>
+        <a ui-sref="inicio" class="btn btn-default">
+            Voltar a busca de usuário
+        </a>
+
+    </h1>
+    <div class="panel  panel-default">
+        <div class="panel-heading">
+            <form class="form-inline">
+                <span>
+                <h4>Repositorios <span class="badge">{{vm.numberRepository}}</span>
+                <input ng-model="searchText" placeholder="Busque um repositorio" class="form-control input-sm">
+                </h4>
+                </span>
+            </form>
+        </div>
+        <div class="panel-body">
+            <div class="list-group">
+                <div ng-repeat="repo in vm.repository | filter:searchText  | orderBy:predicate:reverse" class="list-group-item ">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>
+                                <a href="{{repo.html_url}}" target="_blank">
+                                            {{repo.name}}
+                                        </a>
+                                <small>{{repo.description}}</small>
+                            </h4>
+
+                            <small>
+                                        <a href="{{repo.homepage}}" class="">
+                                            <i class="fa fa-link"></i> WebPage
+                                        </a>
+                                    </small>
+                        </div>
+                        <div class="col-md-4">
+                            <dl class="dl-horizontal">
+                                <dt>Ultima Atualização:</dt>
+                                <dd>{{repo.updated_at | date : 'dd/MM/yyyy'}}</dd>
+                                <dt>Criado:</dt>
+                                <dd>{{repo.created_at| date : 'dd/MM/yyyy'}}</dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

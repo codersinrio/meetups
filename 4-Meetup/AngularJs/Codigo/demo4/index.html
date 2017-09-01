@@ -1,0 +1,21 @@
+<!doctype html>
+<html data-ng-app="codersApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
+  </head>
+  <body  ng-controller="helloValidation">
+    <form name="form">
+      Nome: <input type="text" name="nome" data-ng-model="nome" required>
+      <div ng-show='form.nome.$error.required'>
+        Nome é obrigatório
+      </div>
+    </form>
+  </body>
+  <script>
+    angular.module('codersApp',[])
+           .controller('helloValidation', helloValidation);
+
+    function helloValidation($scope){
+    }           
+  </script>
+</html>
