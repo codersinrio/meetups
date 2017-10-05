@@ -30,6 +30,13 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 - [Workshop AngularJs 1.x - Palestrante: Rafael Cruz](https://github.com/codersinrio/meetups/tree/master/4-Meetup/AngularJs) | [Slides](https://www.slideshare.net/rafaelcruz7334/angularjs-1x-meetup-coders-in-rio)
 
 
+### 5º Meetup: (02/10/2017) 
+
+- [Processando milhares de arquivos usando Go - Palestrante: Arthur Rodrigues] |[Slides] (https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra1)
+
+- [NoSql Destilado - Palestrante: Leonardo Gloria] | [Slides](https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra2)
+
+
 ## Entrem em contato conosco!!
 
 Caso queiram fazer um contato conosco ou queira palestrar pedimos que entre em contato conosco através da nossa página do Meetup: [Coders in Rio](https://www.meetup.com/pt-BR/Coders-in-Rio)
