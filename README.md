@@ -32,7 +32,7 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 ### 5º Meetup: (02/10/2017) 
 
-- [Processando milhares de arquivos usando Go - Palestrante: Arthur Rodrigues] |[Slides] (https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra1)
+- [Processando milhares de arquivos usando Go - Palestrante: Arthur Rodrigues] | [Slides] (https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra1)
 
 - [NoSql Destilado - Palestrante: Leonardo Gloria] | [Slides](https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra2)
 
