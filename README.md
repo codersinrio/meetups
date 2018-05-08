@@ -36,6 +36,12 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 - [NoSql Destilado - Palestrante: Leonardo Gloria] | [Slides](https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra2)
 
+### 8º Meetup: (02/10/2017) 
+
+- [Programação Funcional não é Modinha - Palestrante: Vinicius Reis] | [Slides](https://github.com/codersinrio/meetups/tree/master/8-Meetup/Palestra1)
+
+- [Designer Pattern no Dia a Dia - Palestrante: Vitor Fitzner] | [Slides](https://github.com/codersinrio/meetups/tree/master/8-Meetup/Palestra2)
+
 
 ## Entrem em contato conosco!!
 
@@ -45,6 +51,4 @@ O objetivo do grupo é discutir sobre diferentes temas relacionados a desenvolvi
 Assim que todos, sem exceção, estão convidados a fazer parte do grupo. E também, sintam-se à vontade para propor palestras ou serem palestrantes!
 
 Objetivo: movimentar a Comunidade Técnica aqui no Rio de Janeiro e tornarmos referência para os demais grupos de meetup na área de Desenvolvimento aqui no Rio de Janeiro.
-
-**Gostou?! E quer ser Palestrante?!** entre [AQUI](https://glaucialemos.typeform.com/to/bpVIni) e preencha o formulário!! :D
 
