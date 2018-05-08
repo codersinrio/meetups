@@ -36,7 +36,7 @@ Meetup realizado no dia 08/02/2017, onde foi abordados os seguintes temas:
 
 - [NoSql Destilado - Palestrante: Leonardo Gloria] | [Slides](https://github.com/codersinrio/meetups/tree/master/5-Meetup/Palestra2)
 
-### 8º Meetup: (02/10/2017) 
+### 8º Meetup: (02/05/2018) 
 
 - [Programação Funcional não é Modinha - Palestrante: Vinicius Reis] | [Slides](https://github.com/codersinrio/meetups/tree/master/8-Meetup/Palestra1)
 
